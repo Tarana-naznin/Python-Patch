@@ -22,7 +22,7 @@ class BankAccount:
     def display_balance(self):
         print(f"Account balance for {self.owner} is: {self.balance}")
 
-# Main code
+# Main code demo
 owner = input("Enter account owner's name: ")
 balance = int(input("Enter initial balance: "))
 account = BankAccount(owner, balance)
