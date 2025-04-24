@@ -24,7 +24,7 @@ class BankAccount:
 
 # Main code demo
 owner = input("Enter account owner's name: ")
-balance = int(input("Enter initial balance: "))
+balance = float(input("Enter initial balance: "))
 account = BankAccount(owner, balance)
 
 while True:
@@ -32,10 +32,10 @@ while True:
     choice = int(input("Choose an option: "))
     
     if choice == 1:
-        amount = int(input("Enter amount to deposit: "))
+        amount = float(input("Enter amount to deposit: "))
         account.deposit(amount)
     elif choice == 2:
-        amount = int(input("Enter amount to withdraw: "))
+        amount = float(input("Enter amount to withdraw: "))
         account.withdraw(amount)
     elif choice == 3:
         account.display_balance()
