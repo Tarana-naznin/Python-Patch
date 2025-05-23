@@ -1,0 +1,1120 @@
+[
+  [
+    {
+      "event": "line",
+      "function": "main",
+      "line": 36,
+      "locals": {},
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "main",
+      "line": 37,
+      "locals": {},
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "main",
+      "line": 38,
+      "locals": {},
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "main",
+      "line": 39,
+      "locals": {},
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "main",
+      "line": 35,
+      "locals": {},
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "main",
+      "line": 42,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "main",
+      "line": 44,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 16,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 17,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{}"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 18,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{}",
+        "total_adults": "0"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 19,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{}",
+        "total_adults": "0",
+        "data": "{'name': 'Alice', 'age': 22}"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "__init__",
+      "line": 4,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e940>",
+        "name": "'Alice'",
+        "age": "22"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "__init__",
+      "line": 5,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e940>",
+        "name": "'Alice'",
+        "age": "22"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "__init__",
+      "line": 6,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e940>",
+        "name": "'Alice'",
+        "age": "22"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 20,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{}",
+        "total_adults": "0",
+        "data": "{'name': 'Alice', 'age': 22}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "login",
+      "line": 9,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 22,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{}",
+        "total_adults": "0",
+        "data": "{'name': 'Alice', 'age': 22}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 25,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{}",
+        "total_adults": "0",
+        "data": "{'name': 'Alice', 'age': 22}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "is_adult",
+      "line": 13,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 26,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{}",
+        "total_adults": "0",
+        "data": "{'name': 'Alice', 'age': 22}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 28,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{}",
+        "total_adults": "1",
+        "data": "{'name': 'Alice', 'age': 22}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 29,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{}",
+        "total_adults": "1",
+        "data": "{'name': 'Alice', 'age': 22}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 30,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{}",
+        "total_adults": "1",
+        "data": "{'name': 'Alice', 'age': 22}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "is_adult",
+      "line": 13,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 27,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{}",
+        "total_adults": "1",
+        "data": "{'name': 'Alice', 'age': 22}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 18,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}}",
+        "total_adults": "1",
+        "data": "{'name': 'Alice', 'age': 22}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 19,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}}",
+        "total_adults": "1",
+        "data": "{'name': 'Bob', 'age': 17}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "__init__",
+      "line": 4,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e880>",
+        "name": "'Bob'",
+        "age": "17"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "__init__",
+      "line": 5,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e880>",
+        "name": "'Bob'",
+        "age": "17"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "__init__",
+      "line": 6,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e880>",
+        "name": "'Bob'",
+        "age": "17"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 20,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}}",
+        "total_adults": "1",
+        "data": "{'name': 'Bob', 'age': 17}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "login",
+      "line": 9,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 22,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}}",
+        "total_adults": "1",
+        "data": "{'name': 'Bob', 'age': 17}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 25,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}}",
+        "total_adults": "1",
+        "data": "{'name': 'Bob', 'age': 17}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "is_adult",
+      "line": 13,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 28,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}}",
+        "total_adults": "1",
+        "data": "{'name': 'Bob', 'age': 17}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 29,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}}",
+        "total_adults": "1",
+        "data": "{'name': 'Bob', 'age': 17}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 30,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}}",
+        "total_adults": "1",
+        "data": "{'name': 'Bob', 'age': 17}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "is_adult",
+      "line": 13,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 27,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}}",
+        "total_adults": "1",
+        "data": "{'name': 'Bob', 'age': 17}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 18,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'Bob', 'age': 17}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 19,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'Charlie', 'age': 19}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "__init__",
+      "line": 4,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e940>",
+        "name": "'Charlie'",
+        "age": "19"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "__init__",
+      "line": 5,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e940>",
+        "name": "'Charlie'",
+        "age": "19"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "__init__",
+      "line": 6,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e940>",
+        "name": "'Charlie'",
+        "age": "19"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 20,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'Charlie', 'age': 19}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "login",
+      "line": 9,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 22,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'Charlie', 'age': 19}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 25,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'Charlie', 'age': 19}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "is_adult",
+      "line": 13,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 28,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'Charlie', 'age': 19}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 29,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'Charlie', 'age': 19}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 30,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'Charlie', 'age': 19}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "is_adult",
+      "line": 13,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 27,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'Charlie', 'age': 19}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 18,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'Charlie', 'age': 19}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 19,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'David', 'age': 14}",
+        "user": "<targets.original_version.User object at 0x10952e940>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "__init__",
+      "line": 4,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e880>",
+        "name": "'David'",
+        "age": "14"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "__init__",
+      "line": 5,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e880>",
+        "name": "'David'",
+        "age": "14"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "__init__",
+      "line": 6,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e880>",
+        "name": "'David'",
+        "age": "14"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 20,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'David', 'age': 14}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "login",
+      "line": 9,
+      "locals": {
+        "self": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 22,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'David', 'age': 14}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 23,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'David', 'age': 14}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 24,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'David', 'age': 14}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 18,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'David', 'age': 14}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "process_users",
+      "line": 32,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total_adults": "1",
+        "data": "{'name': 'David', 'age': 14}",
+        "user": "<targets.original_version.User object at 0x10952e880>"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "main",
+      "line": 46,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "result_summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total": "1"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "main",
+      "line": 47,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "result_summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total": "1"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "main",
+      "line": 48,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "result_summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total": "1",
+        "name": "'Alice'",
+        "info": "{'age': 22, 'logged_in': True, 'is_adult': True}"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "main",
+      "line": 47,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "result_summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total": "1",
+        "name": "'Alice'",
+        "info": "{'age': 22, 'logged_in': True, 'is_adult': True}"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "main",
+      "line": 48,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "result_summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total": "1",
+        "name": "'Bob'",
+        "info": "{'age': 17, 'logged_in': True, 'is_adult': False}"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "main",
+      "line": 47,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "result_summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total": "1",
+        "name": "'Bob'",
+        "info": "{'age': 17, 'logged_in': True, 'is_adult': False}"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    },
+    {
+      "event": "line",
+      "function": "main",
+      "line": 48,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "result_summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total": "1",
+        "name": "'Charlie'",
+        "info": "{'age': 19, 'logged_in': True, 'is_adult': False}"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "main",
+      "line": 47,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "result_summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total": "1",
+        "name": "'Charlie'",
+        "info": "{'age': 19, 'logged_in': True, 'is_adult': False}"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ],
+  [
+    {
+      "event": "line",
+      "function": "main",
+      "line": 50,
+      "locals": {
+        "users_data": "[{'name': 'Alice', 'age': 22}, {'name': 'Bob', 'age': 17}, {'name': 'Charlie', 'age': 19}, {'name': 'David', 'age': 14}]",
+        "result_summary": "{'Alice': {'age': 22, 'logged_in': True, 'is_adult': True}, 'Bob': {'age': 17, 'logged_in': True, 'is_adult': False}, 'Charlie': {'age': 19, 'logged_in': True, 'is_adult': False}}",
+        "total": "1",
+        "name": "'Charlie'",
+        "info": "{'age': 19, 'logged_in': True, 'is_adult': False}"
+      },
+      "globals": {
+        "VERSION": "'1.0'"
+      }
+    }
+  ]
+]
