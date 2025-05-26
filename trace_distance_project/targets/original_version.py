@@ -1,3 +1,4 @@
+import json
 import os
 from Levenshtein import distance as levenshtein_distance
 from Bio.Align import PairwiseAligner
@@ -23,8 +24,8 @@ def smith_waterman_score(a, b):
 def compare_versions(base_code, other_code):
     ld = levenshtein_distance(base_code, other_code)
     lcs = longest_common_subsequence(base_code, other_code)
-    sw = smith_waterman_score(base_code, other_code)
-    return ld, lcs, sw
+    # sw = smith_waterman_score(base_code, other_code)
+    return ld, lcs
 
 
 def process_sha_folder(sha_path, file_name):
@@ -43,14 +44,13 @@ def process_sha_folder(sha_path, file_name):
     results = []
     for variant, path in variant_paths[1:]:
         code = read_code(path)
-        ld, lcs, sw = compare_versions(ref_code, code)
+        ld, lcs = compare_versions(ref_code, code)
         results.append({
             "sha": os.path.basename(sha_path),
             "REF": ref_variant,
             "compared_variant": variant,
             "LD": ld,
-            "LCS": lcs,
-            "SW": sw
+            "LCS": lcs
         })
     return results
 
@@ -67,13 +67,19 @@ def process_all_sha_folders(base_dir, input_name):
     return all_results
 
 
-# Example usage
 if __name__ == "__main__":
     input_name = input("Enter Project name : ").strip().lower()
-    base_dir = "C:/Users/Sumaiya Mim/Desktop/IntroClass-master"
+
+    current_dir = os.getcwd()
+    base_dir = os.path.join(current_dir, "IntroClass-master")
     results = process_all_sha_folders(base_dir, input_name)
 
-    # Print results
-    for res in results:
-        print(
-            f"{res['sha']}, REF vs {res['compared_variant']} => LD={res['LD']}, LCS={res['LCS']}, SW={res['SW']}")
+    output_dir = "comparison_results"
+    os.makedirs(output_dir, exist_ok=True)
+
+    output_file = os.path.join(output_dir, f"{input_name}_comparison_results.json")
+
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(results, f, indent=4)
+
+    print(f"\n All comparison results written to: {output_file}")

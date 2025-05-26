@@ -1,0 +1,1269 @@
+[
+    {
+        "sha": "070455301c2e18c7c89b850c2e86c311ac5fd223c84e723591012e163d60f11f5fd030343a444049a44940f8607d36c463f30556bf1efa98916d7417c2b4393c",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 272
+    },
+    {
+        "sha": "070455301c2e18c7c89b850c2e86c311ac5fd223c84e723591012e163d60f11f5fd030343a444049a44940f8607d36c463f30556bf1efa98916d7417c2b4393c",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 214,
+        "LCS": 261
+    },
+    {
+        "sha": "070455301c2e18c7c89b850c2e86c311ac5fd223c84e723591012e163d60f11f5fd030343a444049a44940f8607d36c463f30556bf1efa98916d7417c2b4393c",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 243,
+        "LCS": 252
+    },
+    {
+        "sha": "08c7ea4ac39aa6a5ab206393bb4412de9d2c365ecdda9c1b391be963c1811014ed23d2722d7433b8e8a95305eee314d39da4950f31e01f9147f90af91a5c433a",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 2,
+        "LCS": 1052
+    },
+    {
+        "sha": "08c7ea4ac39aa6a5ab206393bb4412de9d2c365ecdda9c1b391be963c1811014ed23d2722d7433b8e8a95305eee314d39da4950f31e01f9147f90af91a5c433a",
+        "REF": "000",
+        "compared_variant": "015",
+        "LD": 1409,
+        "LCS": 1041
+    },
+    {
+        "sha": "0cdfa335eea3c612e6fa3ad261276b0c3ebbc6ff0ff13c20bdc249bad29a8037ca6dc887dd28558964e1e1a24f47c4cffc05adba525285dc8b93660cdf9b8b7c",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 532
+    },
+    {
+        "sha": "0cdfa335eea3c612e6fa3ad261276b0c3ebbc6ff0ff13c20bdc249bad29a8037ca6dc887dd28558964e1e1a24f47c4cffc05adba525285dc8b93660cdf9b8b7c",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 2,
+        "LCS": 532
+    },
+    {
+        "sha": "0cdfa335eea3c612e6fa3ad261276b0c3ebbc6ff0ff13c20bdc249bad29a8037ca6dc887dd28558964e1e1a24f47c4cffc05adba525285dc8b93660cdf9b8b7c",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 44,
+        "LCS": 496
+    },
+    {
+        "sha": "0cdfa335eea3c612e6fa3ad261276b0c3ebbc6ff0ff13c20bdc249bad29a8037ca6dc887dd28558964e1e1a24f47c4cffc05adba525285dc8b93660cdf9b8b7c",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 254,
+        "LCS": 150
+    },
+    {
+        "sha": "0cdfa335eea3c612e6fa3ad261276b0c3ebbc6ff0ff13c20bdc249bad29a8037ca6dc887dd28558964e1e1a24f47c4cffc05adba525285dc8b93660cdf9b8b7c",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 257,
+        "LCS": 150
+    },
+    {
+        "sha": "0cdfa335eea3c612e6fa3ad261276b0c3ebbc6ff0ff13c20bdc249bad29a8037ca6dc887dd28558964e1e1a24f47c4cffc05adba525285dc8b93660cdf9b8b7c",
+        "REF": "000",
+        "compared_variant": "006",
+        "LD": 251,
+        "LCS": 163
+    },
+    {
+        "sha": "0cdfa335eea3c612e6fa3ad261276b0c3ebbc6ff0ff13c20bdc249bad29a8037ca6dc887dd28558964e1e1a24f47c4cffc05adba525285dc8b93660cdf9b8b7c",
+        "REF": "000",
+        "compared_variant": "007",
+        "LD": 252,
+        "LCS": 114
+    },
+    {
+        "sha": "0cdfa335eea3c612e6fa3ad261276b0c3ebbc6ff0ff13c20bdc249bad29a8037ca6dc887dd28558964e1e1a24f47c4cffc05adba525285dc8b93660cdf9b8b7c",
+        "REF": "000",
+        "compared_variant": "008",
+        "LD": 258,
+        "LCS": 93
+    },
+    {
+        "sha": "0cea42f9680f35f5a84c724c396d4d588b65c303453f9585562f2e2af8db74f5096a83a70b17c5126538222b111a0795a34e9fb6db95d62d771d01592abe3ff6",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 214
+    },
+    {
+        "sha": "0cea42f9680f35f5a84c724c396d4d588b65c303453f9585562f2e2af8db74f5096a83a70b17c5126538222b111a0795a34e9fb6db95d62d771d01592abe3ff6",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 7,
+        "LCS": 211
+    },
+    {
+        "sha": "1391c9b132764431738ca64d39293c8f76de61bab8169ea5e4daf9d14441ee02bf9cf5e448136f7f58d730052ff1c3803688d9e65680d8b757ee1ffdabd4b01f",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 195,
+        "LCS": 272
+    },
+    {
+        "sha": "1391c9b132764431738ca64d39293c8f76de61bab8169ea5e4daf9d14441ee02bf9cf5e448136f7f58d730052ff1c3803688d9e65680d8b757ee1ffdabd4b01f",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 195,
+        "LCS": 272
+    },
+    {
+        "sha": "1391c9b132764431738ca64d39293c8f76de61bab8169ea5e4daf9d14441ee02bf9cf5e448136f7f58d730052ff1c3803688d9e65680d8b757ee1ffdabd4b01f",
+        "REF": "000",
+        "compared_variant": "008",
+        "LD": 134,
+        "LCS": 166
+    },
+    {
+        "sha": "1391c9b132764431738ca64d39293c8f76de61bab8169ea5e4daf9d14441ee02bf9cf5e448136f7f58d730052ff1c3803688d9e65680d8b757ee1ffdabd4b01f",
+        "REF": "000",
+        "compared_variant": "009",
+        "LD": 134,
+        "LCS": 166
+    },
+    {
+        "sha": "1391c9b132764431738ca64d39293c8f76de61bab8169ea5e4daf9d14441ee02bf9cf5e448136f7f58d730052ff1c3803688d9e65680d8b757ee1ffdabd4b01f",
+        "REF": "000",
+        "compared_variant": "010",
+        "LD": 149,
+        "LCS": 147
+    },
+    {
+        "sha": "1391c9b132764431738ca64d39293c8f76de61bab8169ea5e4daf9d14441ee02bf9cf5e448136f7f58d730052ff1c3803688d9e65680d8b757ee1ffdabd4b01f",
+        "REF": "000",
+        "compared_variant": "011",
+        "LD": 131,
+        "LCS": 165
+    },
+    {
+        "sha": "1391c9b132764431738ca64d39293c8f76de61bab8169ea5e4daf9d14441ee02bf9cf5e448136f7f58d730052ff1c3803688d9e65680d8b757ee1ffdabd4b01f",
+        "REF": "000",
+        "compared_variant": "012",
+        "LD": 145,
+        "LCS": 151
+    },
+    {
+        "sha": "1b31fa5c50f7725ce468ebf24282f2d080a83aed87e4ee35522ae7710c8e0136bc263cc460b8ec7bf2c3519cb59af4a138e114d36541515b2609ab56ad2b8ee9",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 412
+    },
+    {
+        "sha": "1b31fa5c50f7725ce468ebf24282f2d080a83aed87e4ee35522ae7710c8e0136bc263cc460b8ec7bf2c3519cb59af4a138e114d36541515b2609ab56ad2b8ee9",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 2,
+        "LCS": 412
+    },
+    {
+        "sha": "1b31fa5c50f7725ce468ebf24282f2d080a83aed87e4ee35522ae7710c8e0136bc263cc460b8ec7bf2c3519cb59af4a138e114d36541515b2609ab56ad2b8ee9",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 103,
+        "LCS": 256
+    },
+    {
+        "sha": "1c2bb3a40a82cba97b2937bc6825903a28ecfe91f993fc177a0f2ae003bcc7b1073eb49e35d3f0f69d6b612e8347e9c1b93306bf25a7e5390098c1a06845baac",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 469
+    },
+    {
+        "sha": "1c2bb3a40a82cba97b2937bc6825903a28ecfe91f993fc177a0f2ae003bcc7b1073eb49e35d3f0f69d6b612e8347e9c1b93306bf25a7e5390098c1a06845baac",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 0,
+        "LCS": 469
+    },
+    {
+        "sha": "1c2bb3a40a82cba97b2937bc6825903a28ecfe91f993fc177a0f2ae003bcc7b1073eb49e35d3f0f69d6b612e8347e9c1b93306bf25a7e5390098c1a06845baac",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 141,
+        "LCS": 387
+    },
+    {
+        "sha": "1c2bb3a40a82cba97b2937bc6825903a28ecfe91f993fc177a0f2ae003bcc7b1073eb49e35d3f0f69d6b612e8347e9c1b93306bf25a7e5390098c1a06845baac",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 236,
+        "LCS": 405
+    },
+    {
+        "sha": "1c2bb3a40a82cba97b2937bc6825903a28ecfe91f993fc177a0f2ae003bcc7b1073eb49e35d3f0f69d6b612e8347e9c1b93306bf25a7e5390098c1a06845baac",
+        "REF": "000",
+        "compared_variant": "006",
+        "LD": 248,
+        "LCS": 418
+    },
+    {
+        "sha": "1c2bb3a40a82cba97b2937bc6825903a28ecfe91f993fc177a0f2ae003bcc7b1073eb49e35d3f0f69d6b612e8347e9c1b93306bf25a7e5390098c1a06845baac",
+        "REF": "000",
+        "compared_variant": "009",
+        "LD": 254,
+        "LCS": 399
+    },
+    {
+        "sha": "295afd8942816e14193424cec0b9802cea194a90b13253b85fd19b6caeada3830c60f1fb2fbbdc67a8f713be54b01a6ea116a7d206800df226d6285ece3a4736",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 494
+    },
+    {
+        "sha": "295afd8942816e14193424cec0b9802cea194a90b13253b85fd19b6caeada3830c60f1fb2fbbdc67a8f713be54b01a6ea116a7d206800df226d6285ece3a4736",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 36,
+        "LCS": 474
+    },
+    {
+        "sha": "295afd8942816e14193424cec0b9802cea194a90b13253b85fd19b6caeada3830c60f1fb2fbbdc67a8f713be54b01a6ea116a7d206800df226d6285ece3a4736",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 206,
+        "LCS": 192
+    },
+    {
+        "sha": "295afd8942816e14193424cec0b9802cea194a90b13253b85fd19b6caeada3830c60f1fb2fbbdc67a8f713be54b01a6ea116a7d206800df226d6285ece3a4736",
+        "REF": "000",
+        "compared_variant": "007",
+        "LD": 215,
+        "LCS": 210
+    },
+    {
+        "sha": "2af3c4163b40679ef94bbbbc863c4fa3785c6e164281f5e8850d9e4ffa387e5b162ceb37449ecca33961ff162d861c8d98ff702e723755b6c37c95d5cfaf1c40",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 261
+    },
+    {
+        "sha": "30074a0e036669b5681720e6481cc101877d52ee589bab434417ece22b4133ed584c6a84f80047c10ab47aa73a7807720b5375983e8b489e8e69978e5e0e8b71",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 319
+    },
+    {
+        "sha": "30074a0e036669b5681720e6481cc101877d52ee589bab434417ece22b4133ed584c6a84f80047c10ab47aa73a7807720b5375983e8b489e8e69978e5e0e8b71",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 0,
+        "LCS": 319
+    },
+    {
+        "sha": "30074a0e036669b5681720e6481cc101877d52ee589bab434417ece22b4133ed584c6a84f80047c10ab47aa73a7807720b5375983e8b489e8e69978e5e0e8b71",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 0,
+        "LCS": 319
+    },
+    {
+        "sha": "30074a0e036669b5681720e6481cc101877d52ee589bab434417ece22b4133ed584c6a84f80047c10ab47aa73a7807720b5375983e8b489e8e69978e5e0e8b71",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 0,
+        "LCS": 319
+    },
+    {
+        "sha": "30074a0e036669b5681720e6481cc101877d52ee589bab434417ece22b4133ed584c6a84f80047c10ab47aa73a7807720b5375983e8b489e8e69978e5e0e8b71",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 0,
+        "LCS": 319
+    },
+    {
+        "sha": "30074a0e036669b5681720e6481cc101877d52ee589bab434417ece22b4133ed584c6a84f80047c10ab47aa73a7807720b5375983e8b489e8e69978e5e0e8b71",
+        "REF": "000",
+        "compared_variant": "006",
+        "LD": 157,
+        "LCS": 284
+    },
+    {
+        "sha": "30074a0e036669b5681720e6481cc101877d52ee589bab434417ece22b4133ed584c6a84f80047c10ab47aa73a7807720b5375983e8b489e8e69978e5e0e8b71",
+        "REF": "000",
+        "compared_variant": "007",
+        "LD": 157,
+        "LCS": 284
+    },
+    {
+        "sha": "317aa7055d3b7337ab43b73863692d1288ca246c473f9fd176bc737a7c3e1e08c37a15603cfb7bfc86f7bc2dcc239967b79b605aec11f86ae3ab90dc140b540f",
+        "REF": "001",
+        "compared_variant": "002",
+        "LD": 1,
+        "LCS": 426
+    },
+    {
+        "sha": "317aa7055d3b7337ab43b73863692d1288ca246c473f9fd176bc737a7c3e1e08c37a15603cfb7bfc86f7bc2dcc239967b79b605aec11f86ae3ab90dc140b540f",
+        "REF": "001",
+        "compared_variant": "004",
+        "LD": 209,
+        "LCS": 257
+    },
+    {
+        "sha": "3214e9b00d4375825f24621cd10fc694ef14afa5a94ce0db9dac20877a21ea2d4b3594007d52464e0cea55e5ed3bb188712a67d8d002c1f28917057057120605",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 85,
+        "LCS": 294
+    },
+    {
+        "sha": "3214e9b00d4375825f24621cd10fc694ef14afa5a94ce0db9dac20877a21ea2d4b3594007d52464e0cea55e5ed3bb188712a67d8d002c1f28917057057120605",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 85,
+        "LCS": 294
+    },
+    {
+        "sha": "3214e9b00d4375825f24621cd10fc694ef14afa5a94ce0db9dac20877a21ea2d4b3594007d52464e0cea55e5ed3bb188712a67d8d002c1f28917057057120605",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 85,
+        "LCS": 294
+    },
+    {
+        "sha": "3214e9b00d4375825f24621cd10fc694ef14afa5a94ce0db9dac20877a21ea2d4b3594007d52464e0cea55e5ed3bb188712a67d8d002c1f28917057057120605",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 85,
+        "LCS": 294
+    },
+    {
+        "sha": "346b1d3c1cdc3032d07222a8a5e0027a2abf95bb1697b9d367d7cca7db1af769d8298e232c56471a122f05e87e79f4bd965855c9c0f8b173ebc0ef5d0abebc7b",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 455
+    },
+    {
+        "sha": "346b1d3c1cdc3032d07222a8a5e0027a2abf95bb1697b9d367d7cca7db1af769d8298e232c56471a122f05e87e79f4bd965855c9c0f8b173ebc0ef5d0abebc7b",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 69,
+        "LCS": 422
+    },
+    {
+        "sha": "346b1d3c1cdc3032d07222a8a5e0027a2abf95bb1697b9d367d7cca7db1af769d8298e232c56471a122f05e87e79f4bd965855c9c0f8b173ebc0ef5d0abebc7b",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 69,
+        "LCS": 422
+    },
+    {
+        "sha": "346b1d3c1cdc3032d07222a8a5e0027a2abf95bb1697b9d367d7cca7db1af769d8298e232c56471a122f05e87e79f4bd965855c9c0f8b173ebc0ef5d0abebc7b",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 103,
+        "LCS": 441
+    },
+    {
+        "sha": "387be36eafae90e7b26450a56b535f6779e881ed8916bbab08bceeb78d8ea474757d46977e2943e6b07dfe150757f53679b911e113ef68a13cd1e75b3daf18d7",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 623
+    },
+    {
+        "sha": "387be36eafae90e7b26450a56b535f6779e881ed8916bbab08bceeb78d8ea474757d46977e2943e6b07dfe150757f53679b911e113ef68a13cd1e75b3daf18d7",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 115,
+        "LCS": 385
+    },
+    {
+        "sha": "3cf6d33ab0357953aa5826c67dc74c4aa483f16ef04c973a68d58cda6f19ea712954b24f366f880b9c18b628c6605eabc4d3e80dc4aa120fac80fe680e2e708f",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 790
+    },
+    {
+        "sha": "3cf6d33ab0357953aa5826c67dc74c4aa483f16ef04c973a68d58cda6f19ea712954b24f366f880b9c18b628c6605eabc4d3e80dc4aa120fac80fe680e2e708f",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 0,
+        "LCS": 790
+    },
+    {
+        "sha": "3cf6d33ab0357953aa5826c67dc74c4aa483f16ef04c973a68d58cda6f19ea712954b24f366f880b9c18b628c6605eabc4d3e80dc4aa120fac80fe680e2e708f",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 0,
+        "LCS": 790
+    },
+    {
+        "sha": "48b82975576f07f162163145b334648a73321d003a0a8cd4577172e48ce4836e63953dffd4460a9a7aadc511a695ff93de0ce2baf953e4b78b747440caa736a6",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 32,
+        "LCS": 376
+    },
+    {
+        "sha": "5b504b3547416bfd54f138b3caa529ad72d157744b787e0e6f4745a2ff0fc5cc33bc87904b2d7cda9c7858087b2e04ece46d53fe9edd208f68d30a0ae70f363f",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 523
+    },
+    {
+        "sha": "5b504b3547416bfd54f138b3caa529ad72d157744b787e0e6f4745a2ff0fc5cc33bc87904b2d7cda9c7858087b2e04ece46d53fe9edd208f68d30a0ae70f363f",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 31,
+        "LCS": 523
+    },
+    {
+        "sha": "65e02c1a7db366f566151b090498b01baa8231549ff586b6c37cba7c8951f271f45aca0808dbfe94f7f522878f43ff552458aec08affbb85a4524c37cafa3918",
+        "REF": "004",
+        "compared_variant": "008",
+        "LD": 312,
+        "LCS": 2025
+    },
+    {
+        "sha": "65e02c1a7db366f566151b090498b01baa8231549ff586b6c37cba7c8951f271f45aca0808dbfe94f7f522878f43ff552458aec08affbb85a4524c37cafa3918",
+        "REF": "004",
+        "compared_variant": "009",
+        "LD": 361,
+        "LCS": 1993
+    },
+    {
+        "sha": "65e02c1a7db366f566151b090498b01baa8231549ff586b6c37cba7c8951f271f45aca0808dbfe94f7f522878f43ff552458aec08affbb85a4524c37cafa3918",
+        "REF": "004",
+        "compared_variant": "010",
+        "LD": 361,
+        "LCS": 1993
+    },
+    {
+        "sha": "65e02c1a7db366f566151b090498b01baa8231549ff586b6c37cba7c8951f271f45aca0808dbfe94f7f522878f43ff552458aec08affbb85a4524c37cafa3918",
+        "REF": "004",
+        "compared_variant": "011",
+        "LD": 361,
+        "LCS": 1993
+    },
+    {
+        "sha": "65e02c1a7db366f566151b090498b01baa8231549ff586b6c37cba7c8951f271f45aca0808dbfe94f7f522878f43ff552458aec08affbb85a4524c37cafa3918",
+        "REF": "004",
+        "compared_variant": "012",
+        "LD": 361,
+        "LCS": 1993
+    },
+    {
+        "sha": "65e02c1a7db366f566151b090498b01baa8231549ff586b6c37cba7c8951f271f45aca0808dbfe94f7f522878f43ff552458aec08affbb85a4524c37cafa3918",
+        "REF": "004",
+        "compared_variant": "013",
+        "LD": 361,
+        "LCS": 1993
+    },
+    {
+        "sha": "65e02c1a7db366f566151b090498b01baa8231549ff586b6c37cba7c8951f271f45aca0808dbfe94f7f522878f43ff552458aec08affbb85a4524c37cafa3918",
+        "REF": "004",
+        "compared_variant": "014",
+        "LD": 361,
+        "LCS": 1993
+    },
+    {
+        "sha": "65e02c1a7db366f566151b090498b01baa8231549ff586b6c37cba7c8951f271f45aca0808dbfe94f7f522878f43ff552458aec08affbb85a4524c37cafa3918",
+        "REF": "004",
+        "compared_variant": "015",
+        "LD": 361,
+        "LCS": 1993
+    },
+    {
+        "sha": "65e02c1a7db366f566151b090498b01baa8231549ff586b6c37cba7c8951f271f45aca0808dbfe94f7f522878f43ff552458aec08affbb85a4524c37cafa3918",
+        "REF": "004",
+        "compared_variant": "016",
+        "LD": 361,
+        "LCS": 1993
+    },
+    {
+        "sha": "68ea5d3466c7a9fb4a9219015d32f37de45f50df920793d79bc6028242a1913e9fa55a6da8262f1bc1f64b15e481dcd74d30dc36a54704a8abeac07d06f0f591",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 715
+    },
+    {
+        "sha": "6e464f2b5ba1d5ad3d4fc366e7d7712b424aabd8b41ca36257115a16416d202feb27397a413d04944c9ac76976fa8ff8ae646144855e08791ebf9593d1caaaca",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 118,
+        "LCS": 240
+    },
+    {
+        "sha": "6e464f2b5ba1d5ad3d4fc366e7d7712b424aabd8b41ca36257115a16416d202feb27397a413d04944c9ac76976fa8ff8ae646144855e08791ebf9593d1caaaca",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 100,
+        "LCS": 237
+    },
+    {
+        "sha": "6e464f2b5ba1d5ad3d4fc366e7d7712b424aabd8b41ca36257115a16416d202feb27397a413d04944c9ac76976fa8ff8ae646144855e08791ebf9593d1caaaca",
+        "REF": "000",
+        "compared_variant": "007",
+        "LD": 127,
+        "LCS": 124
+    },
+    {
+        "sha": "7b78b2d5ab654253c4acb32046237950862d20275165bdb24a7584184a22d3cebeadb299f4e16fdf452f4dc6f958000d118d5ba60dea5645d143183573109d58",
+        "REF": "003",
+        "compared_variant": "004",
+        "LD": 0,
+        "LCS": 4072
+    },
+    {
+        "sha": "7b78b2d5ab654253c4acb32046237950862d20275165bdb24a7584184a22d3cebeadb299f4e16fdf452f4dc6f958000d118d5ba60dea5645d143183573109d58",
+        "REF": "003",
+        "compared_variant": "005",
+        "LD": 0,
+        "LCS": 4072
+    },
+    {
+        "sha": "7b78b2d5ab654253c4acb32046237950862d20275165bdb24a7584184a22d3cebeadb299f4e16fdf452f4dc6f958000d118d5ba60dea5645d143183573109d58",
+        "REF": "003",
+        "compared_variant": "006",
+        "LD": 0,
+        "LCS": 4072
+    },
+    {
+        "sha": "7b78b2d5ab654253c4acb32046237950862d20275165bdb24a7584184a22d3cebeadb299f4e16fdf452f4dc6f958000d118d5ba60dea5645d143183573109d58",
+        "REF": "003",
+        "compared_variant": "007",
+        "LD": 0,
+        "LCS": 4072
+    },
+    {
+        "sha": "7b78b2d5ab654253c4acb32046237950862d20275165bdb24a7584184a22d3cebeadb299f4e16fdf452f4dc6f958000d118d5ba60dea5645d143183573109d58",
+        "REF": "003",
+        "compared_variant": "008",
+        "LD": 0,
+        "LCS": 4072
+    },
+    {
+        "sha": "833bd42c11f7407d63f604b8ba3b7927e22e04e91884c959f01083cda7d5019610705b94a89c09cd1caa3fd1d58eee24b48b85b523db0fa3fc302e7af2dff93d",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 392
+    },
+    {
+        "sha": "833bd42c11f7407d63f604b8ba3b7927e22e04e91884c959f01083cda7d5019610705b94a89c09cd1caa3fd1d58eee24b48b85b523db0fa3fc302e7af2dff93d",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 34,
+        "LCS": 392
+    },
+    {
+        "sha": "88394fc00b7053b386e97564e28ef68421ae09c0baeaf887bba7e254f452419783ed8f774bff3c0c7d23bdc8f6c1443fb47c7af97323d4d3d63cc088d3b6841a",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 344
+    },
+    {
+        "sha": "88394fc00b7053b386e97564e28ef68421ae09c0baeaf887bba7e254f452419783ed8f774bff3c0c7d23bdc8f6c1443fb47c7af97323d4d3d63cc088d3b6841a",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 0,
+        "LCS": 344
+    },
+    {
+        "sha": "88394fc00b7053b386e97564e28ef68421ae09c0baeaf887bba7e254f452419783ed8f774bff3c0c7d23bdc8f6c1443fb47c7af97323d4d3d63cc088d3b6841a",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 0,
+        "LCS": 344
+    },
+    {
+        "sha": "88394fc00b7053b386e97564e28ef68421ae09c0baeaf887bba7e254f452419783ed8f774bff3c0c7d23bdc8f6c1443fb47c7af97323d4d3d63cc088d3b6841a",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 80,
+        "LCS": 268
+    },
+    {
+        "sha": "89b1a701f92f7e190fd4caf2ad32365f2c9261790b9a33967efd0bfb4d047c721db673225a01819900d542401a0b95d29db7ff0d8548087faabd4230f896474f",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 527
+    },
+    {
+        "sha": "89b1a701f92f7e190fd4caf2ad32365f2c9261790b9a33967efd0bfb4d047c721db673225a01819900d542401a0b95d29db7ff0d8548087faabd4230f896474f",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 0,
+        "LCS": 527
+    },
+    {
+        "sha": "89b1a701f92f7e190fd4caf2ad32365f2c9261790b9a33967efd0bfb4d047c721db673225a01819900d542401a0b95d29db7ff0d8548087faabd4230f896474f",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 0,
+        "LCS": 527
+    },
+    {
+        "sha": "89b1a701f92f7e190fd4caf2ad32365f2c9261790b9a33967efd0bfb4d047c721db673225a01819900d542401a0b95d29db7ff0d8548087faabd4230f896474f",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 51,
+        "LCS": 522
+    },
+    {
+        "sha": "8cddfdf7aebdb470a597d7220985f0328a2221da11e260c17fafdf236b78e561014bc0a7ea717540ecab6e9a12d2b584cbdf07a4cd928a622ed99bb88ea81e33",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 501
+    },
+    {
+        "sha": "8cddfdf7aebdb470a597d7220985f0328a2221da11e260c17fafdf236b78e561014bc0a7ea717540ecab6e9a12d2b584cbdf07a4cd928a622ed99bb88ea81e33",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 0,
+        "LCS": 501
+    },
+    {
+        "sha": "8cddfdf7aebdb470a597d7220985f0328a2221da11e260c17fafdf236b78e561014bc0a7ea717540ecab6e9a12d2b584cbdf07a4cd928a622ed99bb88ea81e33",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 237,
+        "LCS": 481
+    },
+    {
+        "sha": "8cddfdf7aebdb470a597d7220985f0328a2221da11e260c17fafdf236b78e561014bc0a7ea717540ecab6e9a12d2b584cbdf07a4cd928a622ed99bb88ea81e33",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 144,
+        "LCS": 479
+    },
+    {
+        "sha": "8ce6345ea4e815b04769b3920f04becec20cf8051565f087aa5e03c5fdca4752a56cbec48207b74f69db55f0e9e0c3c28809cc228c8d6637a7a9c732977640b9",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 758
+    },
+    {
+        "sha": "8ce6345ea4e815b04769b3920f04becec20cf8051565f087aa5e03c5fdca4752a56cbec48207b74f69db55f0e9e0c3c28809cc228c8d6637a7a9c732977640b9",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 39,
+        "LCS": 756
+    },
+    {
+        "sha": "8ce6345ea4e815b04769b3920f04becec20cf8051565f087aa5e03c5fdca4752a56cbec48207b74f69db55f0e9e0c3c28809cc228c8d6637a7a9c732977640b9",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 39,
+        "LCS": 756
+    },
+    {
+        "sha": "8ce6345ea4e815b04769b3920f04becec20cf8051565f087aa5e03c5fdca4752a56cbec48207b74f69db55f0e9e0c3c28809cc228c8d6637a7a9c732977640b9",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 39,
+        "LCS": 756
+    },
+    {
+        "sha": "9013bd3be8c00de447e6ed49a0fe0fab037251c28e26954bf780f2f3b929a9e7ce9da037811c76028e4069d3857410f82b8f399c7fa4386ea8f97f80aab1f191",
+        "REF": "001",
+        "compared_variant": "004",
+        "LD": 38,
+        "LCS": 424
+    },
+    {
+        "sha": "90a14c1ac8f56395389fade6f67872a9684e61f83099e634ac675eae04f391f3cc2b6f6ebe966f2488ce7e00a2cabb218f3b1372d4161b3c05d134b1b7f296d2",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 475
+    },
+    {
+        "sha": "90a14c1ac8f56395389fade6f67872a9684e61f83099e634ac675eae04f391f3cc2b6f6ebe966f2488ce7e00a2cabb218f3b1372d4161b3c05d134b1b7f296d2",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 0,
+        "LCS": 475
+    },
+    {
+        "sha": "90a14c1ac8f56395389fade6f67872a9684e61f83099e634ac675eae04f391f3cc2b6f6ebe966f2488ce7e00a2cabb218f3b1372d4161b3c05d134b1b7f296d2",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 37,
+        "LCS": 448
+    },
+    {
+        "sha": "90a14c1ac8f56395389fade6f67872a9684e61f83099e634ac675eae04f391f3cc2b6f6ebe966f2488ce7e00a2cabb218f3b1372d4161b3c05d134b1b7f296d2",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 104,
+        "LCS": 443
+    },
+    {
+        "sha": "98d873cde39437ae581e6b61ce30ca54634c9c1517b46a0f2774cb12db474b5a37759281b19283c60dbcfa44ac3e05d474a896310f64e8533603b1db73457494",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 1,
+        "LCS": 278
+    },
+    {
+        "sha": "98d873cde39437ae581e6b61ce30ca54634c9c1517b46a0f2774cb12db474b5a37759281b19283c60dbcfa44ac3e05d474a896310f64e8533603b1db73457494",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 39,
+        "LCS": 278
+    },
+    {
+        "sha": "98d873cde39437ae581e6b61ce30ca54634c9c1517b46a0f2774cb12db474b5a37759281b19283c60dbcfa44ac3e05d474a896310f64e8533603b1db73457494",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 39,
+        "LCS": 278
+    },
+    {
+        "sha": "98d873cde39437ae581e6b61ce30ca54634c9c1517b46a0f2774cb12db474b5a37759281b19283c60dbcfa44ac3e05d474a896310f64e8533603b1db73457494",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 54,
+        "LCS": 257
+    },
+    {
+        "sha": "98d873cde39437ae581e6b61ce30ca54634c9c1517b46a0f2774cb12db474b5a37759281b19283c60dbcfa44ac3e05d474a896310f64e8533603b1db73457494",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 402,
+        "LCS": 233
+    },
+    {
+        "sha": "a0e3fdae706d528dcf146cbad986ba9fd834440a7b500e32f04fad073e955a46e481c713ee118432f3fd5dfa1a63fc1caefd648a56a389e40e6362dfd51625b0",
+        "REF": "003",
+        "compared_variant": "006",
+        "LD": 174,
+        "LCS": 290
+    },
+    {
+        "sha": "a3d1771781cb82fd72bf708693ced00fccbec480c21c0e0dca5a3843fff6dfb92d3e68fc6d992cc7b76987e706875c6570936cb127216a3a8b437feba7772d14",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 848,
+        "LCS": 804
+    },
+    {
+        "sha": "af81ffd4bc47e4f84cbf87051d82d15af14833eaba6c57ae82fc503a67eb939f3e6552182124605c38a77a6774f41fac2cc95082320ba5e29d303277c098c4ae",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 658
+    },
+    {
+        "sha": "af81ffd4bc47e4f84cbf87051d82d15af14833eaba6c57ae82fc503a67eb939f3e6552182124605c38a77a6774f41fac2cc95082320ba5e29d303277c098c4ae",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 0,
+        "LCS": 658
+    },
+    {
+        "sha": "af81ffd4bc47e4f84cbf87051d82d15af14833eaba6c57ae82fc503a67eb939f3e6552182124605c38a77a6774f41fac2cc95082320ba5e29d303277c098c4ae",
+        "REF": "000",
+        "compared_variant": "007",
+        "LD": 16,
+        "LCS": 637
+    },
+    {
+        "sha": "bfad6d21d636def8e9e72910c3eb0815f5747669e3a60fb10c6f7f421082d18e548dcfc5d4717bb6da075c36f067b37858d11528ce796b3226ae33719c5007ce",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 46,
+        "LCS": 339
+    },
+    {
+        "sha": "bfad6d21d636def8e9e72910c3eb0815f5747669e3a60fb10c6f7f421082d18e548dcfc5d4717bb6da075c36f067b37858d11528ce796b3226ae33719c5007ce",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 46,
+        "LCS": 339
+    },
+    {
+        "sha": "bfad6d21d636def8e9e72910c3eb0815f5747669e3a60fb10c6f7f421082d18e548dcfc5d4717bb6da075c36f067b37858d11528ce796b3226ae33719c5007ce",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 46,
+        "LCS": 339
+    },
+    {
+        "sha": "bfad6d21d636def8e9e72910c3eb0815f5747669e3a60fb10c6f7f421082d18e548dcfc5d4717bb6da075c36f067b37858d11528ce796b3226ae33719c5007ce",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 68,
+        "LCS": 339
+    },
+    {
+        "sha": "bfad6d21d636def8e9e72910c3eb0815f5747669e3a60fb10c6f7f421082d18e548dcfc5d4717bb6da075c36f067b37858d11528ce796b3226ae33719c5007ce",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 69,
+        "LCS": 339
+    },
+    {
+        "sha": "bfad6d21d636def8e9e72910c3eb0815f5747669e3a60fb10c6f7f421082d18e548dcfc5d4717bb6da075c36f067b37858d11528ce796b3226ae33719c5007ce",
+        "REF": "000",
+        "compared_variant": "006",
+        "LD": 128,
+        "LCS": 339
+    },
+    {
+        "sha": "c5d8f924b86adfeafa7f520559aeb8bd0c3c178efe2500c4054c5ce51bcdbfc2da2e3d9fd5c73f559a7cb6c3b3555b04646111404744496cbcf31caa90e5beb4",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 429
+    },
+    {
+        "sha": "c5d8f924b86adfeafa7f520559aeb8bd0c3c178efe2500c4054c5ce51bcdbfc2da2e3d9fd5c73f559a7cb6c3b3555b04646111404744496cbcf31caa90e5beb4",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 0,
+        "LCS": 429
+    },
+    {
+        "sha": "c5d8f924b86adfeafa7f520559aeb8bd0c3c178efe2500c4054c5ce51bcdbfc2da2e3d9fd5c73f559a7cb6c3b3555b04646111404744496cbcf31caa90e5beb4",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 0,
+        "LCS": 429
+    },
+    {
+        "sha": "c5d8f924b86adfeafa7f520559aeb8bd0c3c178efe2500c4054c5ce51bcdbfc2da2e3d9fd5c73f559a7cb6c3b3555b04646111404744496cbcf31caa90e5beb4",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 0,
+        "LCS": 429
+    },
+    {
+        "sha": "c9d718f379a877bd04e4544ee830a1c4c256bb4f104f214afd1ccaf81e7b25dea689895678bb1e6f817d8b0939eb175f8e847130f30a9a22e980d38125933516",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 59,
+        "LCS": 487
+    },
+    {
+        "sha": "c9d718f379a877bd04e4544ee830a1c4c256bb4f104f214afd1ccaf81e7b25dea689895678bb1e6f817d8b0939eb175f8e847130f30a9a22e980d38125933516",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 69,
+        "LCS": 487
+    },
+    {
+        "sha": "ca5057661022789c0b40bc1574ab8b0826b3d22f70de1a10b2d2122137774c6aec73fe789a94b2362628481da623120033956bd376b41b825a72dbd8b50aff2f",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 351
+    },
+    {
+        "sha": "ca5057661022789c0b40bc1574ab8b0826b3d22f70de1a10b2d2122137774c6aec73fe789a94b2362628481da623120033956bd376b41b825a72dbd8b50aff2f",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 0,
+        "LCS": 351
+    },
+    {
+        "sha": "ca5057661022789c0b40bc1574ab8b0826b3d22f70de1a10b2d2122137774c6aec73fe789a94b2362628481da623120033956bd376b41b825a72dbd8b50aff2f",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 0,
+        "LCS": 351
+    },
+    {
+        "sha": "ca94e3756cbf8d1490bad660c06307f5d678e3675bbea85359523809a4f06b370066767ea2d2d76d270e4712b464924f12e19dbf1a12d28b75d367ceb202dbb9",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 424
+    },
+    {
+        "sha": "ca94e3756cbf8d1490bad660c06307f5d678e3675bbea85359523809a4f06b370066767ea2d2d76d270e4712b464924f12e19dbf1a12d28b75d367ceb202dbb9",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 93,
+        "LCS": 424
+    },
+    {
+        "sha": "ca94e3756cbf8d1490bad660c06307f5d678e3675bbea85359523809a4f06b370066767ea2d2d76d270e4712b464924f12e19dbf1a12d28b75d367ceb202dbb9",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 189,
+        "LCS": 244
+    },
+    {
+        "sha": "ca94e3756cbf8d1490bad660c06307f5d678e3675bbea85359523809a4f06b370066767ea2d2d76d270e4712b464924f12e19dbf1a12d28b75d367ceb202dbb9",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 189,
+        "LCS": 244
+    },
+    {
+        "sha": "ca94e3756cbf8d1490bad660c06307f5d678e3675bbea85359523809a4f06b370066767ea2d2d76d270e4712b464924f12e19dbf1a12d28b75d367ceb202dbb9",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 189,
+        "LCS": 244
+    },
+    {
+        "sha": "ca94e3756cbf8d1490bad660c06307f5d678e3675bbea85359523809a4f06b370066767ea2d2d76d270e4712b464924f12e19dbf1a12d28b75d367ceb202dbb9",
+        "REF": "000",
+        "compared_variant": "006",
+        "LD": 189,
+        "LCS": 244
+    },
+    {
+        "sha": "ca94e3756cbf8d1490bad660c06307f5d678e3675bbea85359523809a4f06b370066767ea2d2d76d270e4712b464924f12e19dbf1a12d28b75d367ceb202dbb9",
+        "REF": "000",
+        "compared_variant": "007",
+        "LD": 189,
+        "LCS": 244
+    },
+    {
+        "sha": "cd2d9b5b5cff96b07c5b22c0d139ffa2aa36b01823c9eb4db6eca19065a0ce2c4d2516bfcc2f1bc95daeae5b0bbd5e9c15b83feda776735e7bc3de6c49d25144",
+        "REF": "003",
+        "compared_variant": "004",
+        "LD": 0,
+        "LCS": 263
+    },
+    {
+        "sha": "cd2d9b5b5cff96b07c5b22c0d139ffa2aa36b01823c9eb4db6eca19065a0ce2c4d2516bfcc2f1bc95daeae5b0bbd5e9c15b83feda776735e7bc3de6c49d25144",
+        "REF": "003",
+        "compared_variant": "005",
+        "LD": 147,
+        "LCS": 253
+    },
+    {
+        "sha": "cd2d9b5b5cff96b07c5b22c0d139ffa2aa36b01823c9eb4db6eca19065a0ce2c4d2516bfcc2f1bc95daeae5b0bbd5e9c15b83feda776735e7bc3de6c49d25144",
+        "REF": "003",
+        "compared_variant": "009",
+        "LD": 197,
+        "LCS": 232
+    },
+    {
+        "sha": "d120480a6e4bd3c4aa2ca882cf7c0aaa499d56c9c236aba6bea7aa935843da56c1ce494b71da9e2c2fd6016b05c84164bbd70867801caf480497fa51a3b78cb1",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 62,
+        "LCS": 321
+    },
+    {
+        "sha": "d120480a6e4bd3c4aa2ca882cf7c0aaa499d56c9c236aba6bea7aa935843da56c1ce494b71da9e2c2fd6016b05c84164bbd70867801caf480497fa51a3b78cb1",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 62,
+        "LCS": 321
+    },
+    {
+        "sha": "d120480a6e4bd3c4aa2ca882cf7c0aaa499d56c9c236aba6bea7aa935843da56c1ce494b71da9e2c2fd6016b05c84164bbd70867801caf480497fa51a3b78cb1",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 139,
+        "LCS": 303
+    },
+    {
+        "sha": "d25c714b0bf59a479cfefe89ae1a98cf00937dccbe68f02fb160f1f561c967d01a00b4b0ef23c9eb1bd2a5667b48ed78e484802b21672ab946b354ff7a6027c7",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 6,
+        "LCS": 240
+    },
+    {
+        "sha": "d25c714b0bf59a479cfefe89ae1a98cf00937dccbe68f02fb160f1f561c967d01a00b4b0ef23c9eb1bd2a5667b48ed78e484802b21672ab946b354ff7a6027c7",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 6,
+        "LCS": 240
+    },
+    {
+        "sha": "d25c714b0bf59a479cfefe89ae1a98cf00937dccbe68f02fb160f1f561c967d01a00b4b0ef23c9eb1bd2a5667b48ed78e484802b21672ab946b354ff7a6027c7",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 6,
+        "LCS": 240
+    },
+    {
+        "sha": "d25c714b0bf59a479cfefe89ae1a98cf00937dccbe68f02fb160f1f561c967d01a00b4b0ef23c9eb1bd2a5667b48ed78e484802b21672ab946b354ff7a6027c7",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 6,
+        "LCS": 240
+    },
+    {
+        "sha": "d25c714b0bf59a479cfefe89ae1a98cf00937dccbe68f02fb160f1f561c967d01a00b4b0ef23c9eb1bd2a5667b48ed78e484802b21672ab946b354ff7a6027c7",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 320,
+        "LCS": 174
+    },
+    {
+        "sha": "d25c714b0bf59a479cfefe89ae1a98cf00937dccbe68f02fb160f1f561c967d01a00b4b0ef23c9eb1bd2a5667b48ed78e484802b21672ab946b354ff7a6027c7",
+        "REF": "000",
+        "compared_variant": "010",
+        "LD": 449,
+        "LCS": 176
+    },
+    {
+        "sha": "d2b889e1ac42bc85f9df5c45c10708f46784be93d69acd1415cfd4d028cb50b19f50c374a9498c8e8b909173053a100e20c279ddb06c6359a06a920ead3e8080",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 2,
+        "LCS": 530
+    },
+    {
+        "sha": "d2b889e1ac42bc85f9df5c45c10708f46784be93d69acd1415cfd4d028cb50b19f50c374a9498c8e8b909173053a100e20c279ddb06c6359a06a920ead3e8080",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 4,
+        "LCS": 529
+    },
+    {
+        "sha": "d2b889e1ac42bc85f9df5c45c10708f46784be93d69acd1415cfd4d028cb50b19f50c374a9498c8e8b909173053a100e20c279ddb06c6359a06a920ead3e8080",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 5,
+        "LCS": 528
+    },
+    {
+        "sha": "d2b889e1ac42bc85f9df5c45c10708f46784be93d69acd1415cfd4d028cb50b19f50c374a9498c8e8b909173053a100e20c279ddb06c6359a06a920ead3e8080",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 87,
+        "LCS": 346
+    },
+    {
+        "sha": "d2b889e1ac42bc85f9df5c45c10708f46784be93d69acd1415cfd4d028cb50b19f50c374a9498c8e8b909173053a100e20c279ddb06c6359a06a920ead3e8080",
+        "REF": "000",
+        "compared_variant": "006",
+        "LD": 729,
+        "LCS": 428
+    },
+    {
+        "sha": "d43d32076778e9cb3a2aa237e806bc00b0eaffde5b75563c9321019a817607f8303e6b982bf49358787264ac38e22026f27bde7e67a87ba43b973c29442f9e93",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 331,
+        "LCS": 369
+    },
+    {
+        "sha": "d6364e6e98a5c96387950d5b3e6206ba9d57628ab2ad0f2cd05ea7af3b818ed03e514157fe4c64e264a0ac9df0840028e0c5a8fd3d096f5ab93bffba61f23812",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 519
+    },
+    {
+        "sha": "d767ad3b58111a0515c8a380d3bf376038066f24de65f5f88606f956c354f1750f5dc2e8fd647dfbbdae7a8dd70f3d8b3345ba7075534b8ed3aa344789cf73c2",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 536
+    },
+    {
+        "sha": "d767ad3b58111a0515c8a380d3bf376038066f24de65f5f88606f956c354f1750f5dc2e8fd647dfbbdae7a8dd70f3d8b3345ba7075534b8ed3aa344789cf73c2",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 0,
+        "LCS": 536
+    },
+    {
+        "sha": "d767ad3b58111a0515c8a380d3bf376038066f24de65f5f88606f956c354f1750f5dc2e8fd647dfbbdae7a8dd70f3d8b3345ba7075534b8ed3aa344789cf73c2",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 0,
+        "LCS": 536
+    },
+    {
+        "sha": "d767ad3b58111a0515c8a380d3bf376038066f24de65f5f88606f956c354f1750f5dc2e8fd647dfbbdae7a8dd70f3d8b3345ba7075534b8ed3aa344789cf73c2",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 0,
+        "LCS": 536
+    },
+    {
+        "sha": "d767ad3b58111a0515c8a380d3bf376038066f24de65f5f88606f956c354f1750f5dc2e8fd647dfbbdae7a8dd70f3d8b3345ba7075534b8ed3aa344789cf73c2",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 0,
+        "LCS": 536
+    },
+    {
+        "sha": "d767ad3b58111a0515c8a380d3bf376038066f24de65f5f88606f956c354f1750f5dc2e8fd647dfbbdae7a8dd70f3d8b3345ba7075534b8ed3aa344789cf73c2",
+        "REF": "000",
+        "compared_variant": "006",
+        "LD": 0,
+        "LCS": 536
+    },
+    {
+        "sha": "d767ad3b58111a0515c8a380d3bf376038066f24de65f5f88606f956c354f1750f5dc2e8fd647dfbbdae7a8dd70f3d8b3345ba7075534b8ed3aa344789cf73c2",
+        "REF": "000",
+        "compared_variant": "007",
+        "LD": 0,
+        "LCS": 536
+    },
+    {
+        "sha": "d767ad3b58111a0515c8a380d3bf376038066f24de65f5f88606f956c354f1750f5dc2e8fd647dfbbdae7a8dd70f3d8b3345ba7075534b8ed3aa344789cf73c2",
+        "REF": "000",
+        "compared_variant": "008",
+        "LD": 222,
+        "LCS": 214
+    },
+    {
+        "sha": "d8b262849e28496f80a8acf7de9758cf3f3a4edf023343521e2e0ac50ec485212a473405570d6c58de6756ae098600d9c7138390faa1aaf6bf3609a8d4016448",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 308,
+        "LCS": 239
+    },
+    {
+        "sha": "dc11fbc9421c547961bfefcdc4044715a7131ceb484b10c8391745399298fcce81022dbb780a9efcac004486b7d989ef4bf0dfb5a4db7c599a8f9aa3393570ae",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 17,
+        "LCS": 638
+    },
+    {
+        "sha": "dc11fbc9421c547961bfefcdc4044715a7131ceb484b10c8391745399298fcce81022dbb780a9efcac004486b7d989ef4bf0dfb5a4db7c599a8f9aa3393570ae",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 37,
+        "LCS": 638
+    },
+    {
+        "sha": "e79f832ff314d3658c07e164d7866db707eafc8c97f209cf1d5cdb3b0cfc6738e7bd533c426a4887122d853ffa152b8861f30c41642a180152ba50c983de66dc",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 575
+    },
+    {
+        "sha": "e79f832ff314d3658c07e164d7866db707eafc8c97f209cf1d5cdb3b0cfc6738e7bd533c426a4887122d853ffa152b8861f30c41642a180152ba50c983de66dc",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 16,
+        "LCS": 563
+    },
+    {
+        "sha": "e79f832ff314d3658c07e164d7866db707eafc8c97f209cf1d5cdb3b0cfc6738e7bd533c426a4887122d853ffa152b8861f30c41642a180152ba50c983de66dc",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 84,
+        "LCS": 575
+    },
+    {
+        "sha": "e9c74e27a17310a52842f7099c3e5c126298e1a08f2b841169cd5f155e6f2970d14d0314da1f6314ed970de1d20be306a60f0ce341d1c4d01300cc6efad7ab9b",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 58,
+        "LCS": 675
+    },
+    {
+        "sha": "f227ed285307815838e91975d2523300f5c71aa244356578858ac751ca351b55bc62f13559b03041faf2130fa8228dc0f8527f129e516404f37d4940707125b1",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 199,
+        "LCS": 136
+    },
+    {
+        "sha": "f2997e14a460c6df0ed10aa9f6e792666e37d5c06a9a81445f14509e4a0113f59f5589ef37774dfea1f7d0ae9bb6c388e6eeb44e745e35f8511bbd4b82709d9a",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 502
+    },
+    {
+        "sha": "f2997e14a460c6df0ed10aa9f6e792666e37d5c06a9a81445f14509e4a0113f59f5589ef37774dfea1f7d0ae9bb6c388e6eeb44e745e35f8511bbd4b82709d9a",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 27,
+        "LCS": 502
+    },
+    {
+        "sha": "f5b56c79c624eac7c37c45c1540916bb9b5f5db93e2a426a282a5d0eacde86b4b1e5d1d119eeb06f0ead94d2e4f228dca8dde4ef511af4bc59a18d272d820a0e",
+        "REF": "000",
+        "compared_variant": "007",
+        "LD": 364,
+        "LCS": 597
+    },
+    {
+        "sha": "f94e261284a925b931cca5a89f73ae19039f2699f0416d5e4e7e673bb7a2c746760ae35adf47cfa94ad5af1623209b17a0e53c1300d3771c5b0b0cada1561d3f",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 667
+    },
+    {
+        "sha": "f94e261284a925b931cca5a89f73ae19039f2699f0416d5e4e7e673bb7a2c746760ae35adf47cfa94ad5af1623209b17a0e53c1300d3771c5b0b0cada1561d3f",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 28,
+        "LCS": 667
+    },
+    {
+        "sha": "f94e261284a925b931cca5a89f73ae19039f2699f0416d5e4e7e673bb7a2c746760ae35adf47cfa94ad5af1623209b17a0e53c1300d3771c5b0b0cada1561d3f",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 28,
+        "LCS": 667
+    },
+    {
+        "sha": "f94e261284a925b931cca5a89f73ae19039f2699f0416d5e4e7e673bb7a2c746760ae35adf47cfa94ad5af1623209b17a0e53c1300d3771c5b0b0cada1561d3f",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 86,
+        "LCS": 548
+    },
+    {
+        "sha": "ff9fd0121ba04286bbb31ccbf49a31c36b639f4459714ff947b151cfd3f21e0038411e980a053f57b3239069a95e2795107c0978eea647d7daec84e58a4975a0",
+        "REF": "000",
+        "compared_variant": "001",
+        "LD": 0,
+        "LCS": 418
+    },
+    {
+        "sha": "ff9fd0121ba04286bbb31ccbf49a31c36b639f4459714ff947b151cfd3f21e0038411e980a053f57b3239069a95e2795107c0978eea647d7daec84e58a4975a0",
+        "REF": "000",
+        "compared_variant": "002",
+        "LD": 0,
+        "LCS": 418
+    },
+    {
+        "sha": "ff9fd0121ba04286bbb31ccbf49a31c36b639f4459714ff947b151cfd3f21e0038411e980a053f57b3239069a95e2795107c0978eea647d7daec84e58a4975a0",
+        "REF": "000",
+        "compared_variant": "003",
+        "LD": 0,
+        "LCS": 418
+    },
+    {
+        "sha": "ff9fd0121ba04286bbb31ccbf49a31c36b639f4459714ff947b151cfd3f21e0038411e980a053f57b3239069a95e2795107c0978eea647d7daec84e58a4975a0",
+        "REF": "000",
+        "compared_variant": "004",
+        "LD": 0,
+        "LCS": 418
+    },
+    {
+        "sha": "ff9fd0121ba04286bbb31ccbf49a31c36b639f4459714ff947b151cfd3f21e0038411e980a053f57b3239069a95e2795107c0978eea647d7daec84e58a4975a0",
+        "REF": "000",
+        "compared_variant": "005",
+        "LD": 0,
+        "LCS": 418
+    }
+]
